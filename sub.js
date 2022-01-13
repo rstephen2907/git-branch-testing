@@ -7,3 +7,7 @@ const subn = (...x) => {
 } 
 
 console.log(subn(1, 2, 3, 4));
+
+const sub = (a, b, c) => a - b - c;
+
+module.exports = sub;
