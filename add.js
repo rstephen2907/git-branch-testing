@@ -9,5 +9,7 @@ const addn = (...x) => {
     });
     return sum;
 }
+// addtion function to add 3 numbers
+const add3 = (a, b, c) => a + b + c;
 
 module.exports = add;
