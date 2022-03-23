@@ -6,6 +6,8 @@ const add3 = (a, b, c) => a + b + c;
 
 const add4 = (a, b, c, d) => a + b + c;
 
+const add5 = (a, b, c, d, e) => a + b + c + d + e;
+
 // addition function to add n numbers
 const addn = (...x) => {
     let sum = 0;
